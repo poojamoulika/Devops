@@ -1,5 +1,0 @@
-Hello learning devops.
-
-Updating file.
-
-123
