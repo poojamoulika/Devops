@@ -1,3 +1,0 @@
-Hello learning devops.
-
-Updating file.
